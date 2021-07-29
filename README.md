@@ -9,7 +9,8 @@ Your Challenge this week is emblematic of the fact that most modern websites are
 * HTML
 * CSS
 * JS
-* 
+* SQL
+
 ## Contribution
 Made with ❤️ by Samantha Arellano
 
